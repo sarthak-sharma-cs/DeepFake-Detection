@@ -96,7 +96,7 @@ cd
 Run the script:
 
 ```
-python your_script_name.py
+python DL Code.py
 ```
 
 Make sure your dataset is placed in the correct directory before running.
