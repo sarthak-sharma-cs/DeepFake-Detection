@@ -49,7 +49,7 @@ real_and_fake_face/
 * NumPy
 * Matplotlib
 * Scikit-learn
-* PIL (Python Imaging Library)
+
 
 ---
 
